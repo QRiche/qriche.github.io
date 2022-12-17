@@ -1,5 +1,6 @@
 <script>
     import "../app.css";
+    import { base } from "$app/paths";
 </script>
 
 <header class="text-center font-semibold text-6xl">

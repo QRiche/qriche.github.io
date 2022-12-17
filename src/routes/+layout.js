@@ -1,0 +1,1 @@
+export const prerender = true; // prerender site for github pages
