@@ -23,6 +23,6 @@
             class="font-extrabold stroke-black stroke-2 text-transparent bg-clip-text bg-gradient-to-r from-blue-700 via-blue-600 to-yellow-600"
             >Toronto Metropolitan University</span
         ></a
-    >. I enjoy building computers, electronics, and programming. Sometimes I
-    like going outside.
+    >. I enjoy tinkering with computers, electronics, and programming. Sometimes
+    I like going outside.
 </p>
