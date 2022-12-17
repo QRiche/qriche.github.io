@@ -1,7 +1,7 @@
 # Website
 A personal website for myself. Currently hosted at [https://qriche.github.io/Website/](https://qriche.github.io/Website/)
 ## This website uses:
-- [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte)
+- [`create-svelte`](https://kit.svelte.dev/)
 - [`tailwindcss`](https://tailwindcss.com/)
 
 ---
