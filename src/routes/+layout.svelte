@@ -1,7 +1,10 @@
 <script>
     import "../app.css";
-    import { base } from "$app/paths";
 </script>
+
+<svelte:head>
+    <title>Richard Quan</title>
+</svelte:head>
 
 <header class="text-center font-semibold text-6xl">
     <h1>Richard Quan</h1>
