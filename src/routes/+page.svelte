@@ -10,7 +10,7 @@
         >.
     </p>
 </div>
-<div class="sm:mx-12 mx-24 lg:mx-96">
+<div class="mx-6 sm:mx-12 md:mx-24 lg:mx-36 xl:mx-96">
     <p>
         I am a second-year <span class="text-blue-600">Computer Science</span>
         student at
