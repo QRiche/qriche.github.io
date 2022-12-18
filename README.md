@@ -1,5 +1,5 @@
 # Website
-A personal website for myself. Currently hosted at [https://qriche.github.io/Website/](https://qriche.github.io/Website/)
+A personal website for myself. Currently hosted at [https://qriche.github.io/Website/](https://qriche.github.io)
 ## Frameworks:
 - [`create-svelte`](https://kit.svelte.dev/)
 - [`tailwindcss`](https://tailwindcss.com/)
