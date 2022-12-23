@@ -1,32 +1,26 @@
-<script>
-    const navItems = [
+<script context="module">
+    import About from "./about.svelte";
+    import Projects from "./projects.svelte";
+    export const navItems = [
         {
-            label: "About",
-            href: "#",
+            page: "About",
+            href: null,
+            component: About,
         },
         {
-            label: "Projects [WIP]",
-            href: "",
+            page: "Projects [WIP]",
+            href: null,
+            component: Projects,
         },
         {
-            label: "GitHub",
+            page: "GitHub",
             href: "https://github.com/QRiche",
             target: "_blank",
         },
         {
-            label: "LinkedIn",
+            page: "LinkedIn",
             href: "https://www.linkedin.com/in/quanr/",
             target: "_blank",
         },
     ];
 </script>
-
-<ul class="flex flex-wrap justify-center items-center text-center my-6 text-lg">
-    {#each navItems as item}
-        <li
-            class="mx-2 list-none hover:text-gray-500 hover:underline underline-offset-2"
-        >
-            <a href={item.href} target={item.target}>{item.label}</a>
-        </li>
-    {/each}
-</ul>
