@@ -1,8 +1,8 @@
-<script lang="ts">
+<script>
     import { navItems } from "./navbar.svelte";
     let selected = navItems[0];
     let intSelected = 0;
-    function changeComponent(event: any) {
+    function changeComponent(event) {
         intSelected = event.target.id;
         selected = navItems[intSelected];
     }
